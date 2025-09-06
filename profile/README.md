@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/Logo.png" alt="NotiqTeam Logo" width="150"/>
+  <img src="Logo.png" alt="NotiqTeam Logo" width="150"/>
 </p>
 
 <h1 align="center">NotiqTeam</h1>
